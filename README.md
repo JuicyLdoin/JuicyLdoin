@@ -1,7 +1,7 @@
 # Hi, I'm Ldoin ツ
 
 ## Stack💻
-![Profile views](https://gpvc.arturio.dev/xVorttex)
+![Profile views](https://gpvc.arturio.dev/JuicyLdoin)
 
 Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
